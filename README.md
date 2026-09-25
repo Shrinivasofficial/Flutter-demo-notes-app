@@ -185,8 +185,7 @@ flutterfire configure
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student_notes.git
-```
+https://github.com/Shrinivasofficial/Flutter-demo-notes-app.git```
 
 Navigate to the project:
 
