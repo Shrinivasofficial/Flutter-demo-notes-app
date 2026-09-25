@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394465730161",
+    "project_id": "student-notes-952a9",
+    "storage_bucket": "student-notes-952a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394465730161:android:8ab1b76772736d4d1405d0",
+        "android_client_info": {
+          "package_name": "com.example.student_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPDKfk7dvaEQIhj2Ieh5ZHsUXJ1n8o60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
